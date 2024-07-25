@@ -1,1 +1,1 @@
-# Techno_sales
+The Techno Sales Learning Services Company team always cleans data and creates the report in microsoft excel,Which a time consuming process.SO this project is donw to see how Power BI can solve this issue and automate the ned to end work.

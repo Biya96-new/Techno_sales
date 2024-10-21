@@ -42,13 +42,14 @@ State: State where the sale occurred.
 Region: Region of the sale (e.g., North, South).
 
 **Benefits of Using Power BI**
-Automated Reporting: Power BI automated the calculation of sales metrics, such as sum of sales by region, category, segment, and time periods. This eliminated the repetitive and manual process of updating Excel reports.
 
-Real-time Data Refresh: Power BI enables automatic updates of reports. You can either click a refresh button or set up scheduled refreshes at specific intervals. This ensures that company officials always have access to the most up-to-date data without manual intervention.
+•	Automated Reporting: Power BI automated the calculation of sales metrics, such as sum of sales by region, category, segment, and time periods. This eliminated the repetitive and manual process of updating Excel reports.
 
-Enhanced Business Insights: The Power BI dashboard allows for detailed sales analysis from any location, offering comprehensive insights that enable better decision-making. This helped company officials easily identify underperforming areas and make informed adjustments to improve sales.
+•	Real-time Data Refresh: Power BI enables automatic updates of reports. You can either click a refresh button or set up scheduled refreshes at specific intervals. This ensures that company officials always have access to the most up-to-date data without manual intervention.
 
-Time-Saving: With Power BI, the time spent on data cleaning and analysis was greatly reduced. This allowed the team to focus more on making data-driven decisions rather than spending time on manual data processing.
+•	Enhanced Business Insights: The Power BI dashboard allows for detailed sales analysis from any location, offering comprehensive insights that enable better decision-making. This helped company officials easily identify underperforming areas and make informed adjustments to improve sales.
+
+•	Time-Saving: With Power BI, the time spent on data cleaning and analysis was greatly reduced. This allowed the team to focus more on making data-driven decisions rather than spending time on manual data processing.
 
 By leveraging Power BI, Techno Sales Learning Services Company was able to transform their sales data analysis process from a manual, time-consuming task into an automated, efficient workflow. This provided the company with real-time insights, saving time and improving overall sales performance.
 
